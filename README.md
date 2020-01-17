@@ -1,0 +1,2 @@
+# latihan
+respository latihan wpu
